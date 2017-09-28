@@ -28,7 +28,11 @@ asdlkjfl;ksadjfasdfasdjflkasjddl;kfja;lsdjf
 asdlkjfl;ksadjfasdfasdjflkasjddl;kfja;lsdjf
 asdlkjfl;ksadjf
 
+<<<<<<< HEAD
 new line 
 new line
 
 trunk update
+=======
+branch1 update
+>>>>>>> branch1
